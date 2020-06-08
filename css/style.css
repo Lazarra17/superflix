@@ -1,0 +1,62 @@
+.active-link{
+    color: #ffffff !important;
+}
+ul.navbar-nav .nav-link{
+    font-weight:500;
+}
+.profile-icon{
+    margin-right: 20px;
+    margin-left: 10px;
+}
+div.banner{
+    background-color: #313131;
+}
+div.movie-genre{
+    font-weight: bold;
+    color: #f1f1f1;
+    background-image: url("../images/genre-bg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top:20px; 
+    margin-bottom: 5px;
+    padding: 3px 0px;
+    padding-left: 5px;
+    width: 220px;
+    
+}
+.movie-item{
+    padding: 0px 5px;
+}
+p.footer-remarks{
+    text-align: center;
+    background-color: #343a40;
+    color:grey;
+    font-size: 13px;
+    padding-bottom: 10px;
+}
+.sf-select{
+    margin:0px;
+    background-color: #17a2b8;
+    color:white;
+    margin-top:15px; 
+}
+
+.sf-select option{
+    background-color: #17a2b8;
+    color:white;
+}
+.login-title{
+    margin-top: 50px;
+    padding:10px;
+    background-color: #343a40;
+}
+.sp-btn{
+    background-color:#17a2b8;  
+    color:white;
+}
+.login{
+    border: 1px solid #c1c1c1;
+    padding: 10px;
+    margin-top: 50px;
+    
+}
