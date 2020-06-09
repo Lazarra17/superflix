@@ -60,3 +60,23 @@ p.footer-remarks{
     margin-top: 50px;
     
 }
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+    font-size: 13px;
+    background-color: #343a40;
+    
+}
+.dropdown>.dropdown-menu .dropdown-item{
+    color:white;
+    background-color: #343a40;
+    
+}
+.dropdown>.dropdown-menu .dropdown-item:hover{
+    text-decoration: underline;
+}
+
+.dropdown>.dropdown-toggle:active {
+  /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+}
