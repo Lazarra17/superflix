@@ -54,6 +54,12 @@ p.footer-remarks{
     background-color:#17a2b8;  
     color:white;
 }
+
+.sp-btn:hover{
+    text-decoration: underline;
+    color:white;
+}
+
 .login{
     border: 1px solid #c1c1c1;
     padding: 10px;
@@ -79,4 +85,7 @@ p.footer-remarks{
 .dropdown>.dropdown-toggle:active {
   /*Without this, clicking will make it sticky*/
     pointer-events: none;
+}
+.sp-btn-sm{
+    font-size: 13px;
 }
